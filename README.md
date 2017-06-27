@@ -4,4 +4,4 @@
 ###### 큐이우렁 
   
  'ㅑㅇ
-!()[]https://goo.gl/images/rAvzTn
+!(https://goo.gl/images/rAvzTn)[ 세쿠시 경리]
